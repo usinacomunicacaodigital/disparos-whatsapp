@@ -1,0 +1,5 @@
+{
+  "name": "AI WhatsApp Messenger",
+  "description": "An application to compose and dispatch WhatsApp messages, enhanced with AI-powered message generation using the Gemini API.",
+  "requestFramePermissions": []
+}
